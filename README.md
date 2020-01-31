@@ -1,2 +1,4 @@
-# wswp-ask-mate
-Web and SQL with Python / 1st TW week / Ask Mate project
+# AskMate
+Web and SQL with Python
+
+This is a simple q&a site with python backend and postgreSQL.
